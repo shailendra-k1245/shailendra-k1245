@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **iwilldofine@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1f96RJoM5hJBm7CY_Ycsj0u4ysgCbtZ-Z/view?usp=sharing](https://drive.google.com/file/d/1f96RJoM5hJBm7CY_Ycsj0u4ysgCbtZ-Z/view?usp=sharing)
+- 📄 Know more about my experiences [https://drive.google.com/file/d/1f96RJoM5hJBm7CY_Ycsj0u4ysgCbtZ-Z/view?usp=sharing](https://drive.google.com/file/d/1f96RJoM5hJBm7CY_Ycsj0u4ysgCbtZ-Z/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
