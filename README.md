@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shailendra-kumar.netlify.app/](https://shailendra-kumar.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@iwilldofine](https://medium.com/@iwilldofine)
+- 📝 You can read my blogs on: [https://medium.com/@iwilldofine](https://medium.com/@iwilldofine)
 
 - 💬 Ask me about **JavaScript,HTML,CSS,Node.js,Express**
 
