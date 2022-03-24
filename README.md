@@ -7,7 +7,7 @@
 
 - 📝 You can read my blogs on: [https://medium.com/@iwilldofine](https://medium.com/@iwilldofine)
 
-- 💬 Ask me about **JavaScript,HTML,CSS,Node.js,Express**
+- 💬 Ask me about **JavaScript,HTML,CSS,Node.js,Express,React.js**
 
 - 📫 How to reach me **iwilldofine@gmail.com**
 
