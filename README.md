@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shailendra Kumar</h1>
 <h3 align="center">An aspiring Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **React,Redux**
+- 🌱 I’m currently learning **Workflows and Low-code/no-code editors/system**
 
 - 👨‍💻 All of my projects are available at [https://shailendra-kumar.netlify.app/](https://shailendra-kumar.netlify.app/)
 
 - 📝 You can read my blogs on: [https://medium.com/@iwilldofine](https://medium.com/@iwilldofine)
 
-- 💬 Ask me about **JavaScript,HTML,CSS,Node.js,Express,React.js**
+- 💬 Ask me about **JavaScript,HTML,CSS,Node.js,Express,React.js,Workflow engine**
 
 - 📫 How to reach me **iwilldofine@gmail.com**
 
