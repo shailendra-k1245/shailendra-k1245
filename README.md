@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shailendra Kumar</h1>
 <h3 align="center">An aspiring Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Workflows and Low-code/no-code system**
+- 🌱 I’m currently working on **Workflows and Low-code/no-code system**
 
 - 👨‍💻 All of my projects are available at [https://shailendra-kumar.netlify.app/](https://shailendra-kumar.netlify.app/)
 
