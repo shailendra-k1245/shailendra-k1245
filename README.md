@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [(https://shailendra-k1245.github.io/Portfolio)](https://shailendra-k1245.github.io/Portfolio/)
 
-- 💬 Ask me about **JavaScript,HTML,CSS,NodeJS,ExpressJS,MongoDB PostgresDB**
+- 💬 Ask me about **JavaScript,HTML,CSS,NodeJS,ExpressJS,MongoDB, Postgresql,Typescript,Git,Tailwind CSS, Material UI, Firebase**
 
 - 📫 How to reach me **iwilldofine@gmail.com**
 
